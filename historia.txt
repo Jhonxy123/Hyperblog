@@ -11,3 +11,5 @@ Master 1
 Master 2
 
 mañana nos enfocaremos en su vida laboral.
+
+probando clonar mi repositorio en otro computador.
