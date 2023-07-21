@@ -4,3 +4,5 @@ Un blog increible para el curso de git y github de platzi
 
 #Me cuesta escribir y pensar en que escribir
 Git me parece un a herramienta maravillosa, bastante compleja, no comprendo como esta diseñado pero es genial.
+
+-Creado por Jhon Gonzalez
