@@ -8,3 +8,4 @@ Git me parece un a herramienta maravillosa, bastante compleja, no comprendo como
 -Creado por Jhon Gonzalez
 -Incluye ejemplos en windows, linux y mac
 -Disponible para todas las edades
+-algo más
