@@ -6,3 +6,4 @@ Un blog increible para el curso de git y github de platzi
 Git me parece un a herramienta maravillosa, bastante compleja, no comprendo como esta diseñado pero es genial.
 
 -Creado por Jhon Gonzalez
+-Incluye ejemplos en windows, linux y mac
